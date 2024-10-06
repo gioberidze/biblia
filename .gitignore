@@ -1,0 +1,7 @@
+# production
+build/*
+output/
+!build/README.md
+!static/bible-json/README.md
+node_modules/
+pnpm-lock.yaml

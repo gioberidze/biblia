@@ -1,0 +1,6 @@
+Package: biblia
+Version: 0.22.5
+Maintainer: Giorgi Beridze <gioberidzegio@yahoo.com>
+Architecture: amd64
+Depends: libgtk-3-0, libwebkit2gtk-4.1-0
+Description: Bible reader application that uses MyBible android app's modules
